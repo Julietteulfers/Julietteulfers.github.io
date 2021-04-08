@@ -1,4 +1,4 @@
-# Geog 4046 Assignment  
+# GEOG 4046 Assignment  
 Assignment 10: Leaflet Web Map
 
 ## United States Current Weather Map  
